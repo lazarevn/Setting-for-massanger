@@ -1,0 +1,5 @@
+C:\Users\Никита\Desktop\C#\Shop1\Shop1\bin\Debug\Shop1.exe
+C:\Users\Никита\Desktop\C#\Shop1\Shop1\bin\Debug\Shop1.pdb
+C:\Users\Никита\Desktop\C#\Shop1\Shop1\obj\Debug\Shop1.csprojResolveAssemblyReference.cache
+C:\Users\Никита\Desktop\C#\Shop1\Shop1\obj\Debug\Shop1.exe
+C:\Users\Никита\Desktop\C#\Shop1\Shop1\obj\Debug\Shop1.pdb
